@@ -6,8 +6,18 @@ A portfolio of Programming Creations.
 
 ## The Missing Jewel Mystery.
 _This was a midterm project_
+
 _Created on 11/8/2022_
+
 _For Programming 101, Fall 2022 at Columbia Chicago College_
+
+![TheMissingJewelMystery Title Screen](Portfolio_Images/TheMissingJewelMystery_TitleCard.png)
+
+_Gameplay_
+
+![TheMissingJewelMystery Gameplay IMG](Portfolio_Images/TheMissingJewelMystery_Gameplay_Image1.png)
+![![TheMissingJewelMystery_EndingIMG](Portfolio_Images/TheMissingJewelMystery_EndingIMG.png)
+
 
 
 
