@@ -1,0 +1,16 @@
+C:\Users\nemo1\OneDrive\Desktop\TheMissingJewelMystery_AssetCreator\obj\Debug\TheMissingJewelMystery_AssetCreator.csproj.AssemblyReference.cache
+C:\Users\nemo1\OneDrive\Desktop\TheMissingJewelMystery_AssetCreator\obj\Debug\TheMissingJewelMystery_AssetCreator.csproj.SuggestedBindingRedirects.cache
+C:\Users\nemo1\OneDrive\Desktop\TheMissingJewelMystery_AssetCreator\obj\Debug\TheMissingJewelMystery_AssetCreator.csproj.CoreCompileInputs.cache
+C:\Users\nemo1\OneDrive\Desktop\TheMissingJewelMystery_AssetCreator\bin\Debug\TheMissingJewelMystery_AssetCreator.exe.config
+C:\Users\nemo1\OneDrive\Desktop\TheMissingJewelMystery_AssetCreator\bin\Debug\TheMissingJewelMystery_AssetCreator.exe
+C:\Users\nemo1\OneDrive\Desktop\TheMissingJewelMystery_AssetCreator\bin\Debug\TheMissingJewelMystery_AssetCreator.pdb
+C:\Users\nemo1\OneDrive\Desktop\TheMissingJewelMystery_AssetCreator\obj\Debug\TheMissingJewelMystery_AssetCreator.exe
+C:\Users\nemo1\OneDrive\Desktop\TheMissingJewelMystery_AssetCreator\obj\Debug\TheMissingJewelMystery_AssetCreator.pdb
+C:\Users\nemo1\OneDrive\Desktop\TheMissingJewelMystery_Prototype6.0--main\Tools\TheMissingJewelMystery_AssetCreator\bin\Debug\TheMissingJewelMystery_AssetCreator.exe.config
+C:\Users\nemo1\OneDrive\Desktop\TheMissingJewelMystery_Prototype6.0--main\Tools\TheMissingJewelMystery_AssetCreator\bin\Debug\TheMissingJewelMystery_AssetCreator.exe
+C:\Users\nemo1\OneDrive\Desktop\TheMissingJewelMystery_Prototype6.0--main\Tools\TheMissingJewelMystery_AssetCreator\bin\Debug\TheMissingJewelMystery_AssetCreator.pdb
+C:\Users\nemo1\OneDrive\Desktop\TheMissingJewelMystery_Prototype6.0--main\Tools\TheMissingJewelMystery_AssetCreator\obj\Debug\TheMissingJewelMystery_AssetCreator.csproj.AssemblyReference.cache
+C:\Users\nemo1\OneDrive\Desktop\TheMissingJewelMystery_Prototype6.0--main\Tools\TheMissingJewelMystery_AssetCreator\obj\Debug\TheMissingJewelMystery_AssetCreator.csproj.SuggestedBindingRedirects.cache
+C:\Users\nemo1\OneDrive\Desktop\TheMissingJewelMystery_Prototype6.0--main\Tools\TheMissingJewelMystery_AssetCreator\obj\Debug\TheMissingJewelMystery_AssetCreator.csproj.CoreCompileInputs.cache
+C:\Users\nemo1\OneDrive\Desktop\TheMissingJewelMystery_Prototype6.0--main\Tools\TheMissingJewelMystery_AssetCreator\obj\Debug\TheMissingJewelMystery_AssetCreator.exe
+C:\Users\nemo1\OneDrive\Desktop\TheMissingJewelMystery_Prototype6.0--main\Tools\TheMissingJewelMystery_AssetCreator\obj\Debug\TheMissingJewelMystery_AssetCreator.pdb
